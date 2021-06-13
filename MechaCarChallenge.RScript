@@ -18,7 +18,6 @@ lm(mpg ~ vehicle_length + ground_clearance, data=mecha_mpg)
 summary(lm(mpg ~ vehicle_length + ground_clearance, data=mecha_mpg)) 
 
 
-
 ## Deliverable 2
 
 #2. Import and read in the Suspension_Coil.csv file as a table
@@ -46,11 +45,11 @@ plt1 + geom_boxplot() #add boxplot
 plt2 <- ggplot(mecha_coil,aes(x=Manufacturing_Lot,y=PSI)) #import dataset into ggplot2
 plt2 + geom_boxplot()
 
+
 ## Deliverable 3
 
 #1. Write an RScript using t.test() to determine if the PSI across all lots is statistically different from the pop. mean of 1,500 PSI.
 t.test(mecha_coil$PSI,mu=1500)
-
 
 #2. Use t.test() function 3 more times with subset() to determine if PSI for each manufacturing lot is statistically different from the pop. mean of 1,500 PSI
 lot1 <- subset(mecha_coil, Manufacturing_Lot=="Lot1")
