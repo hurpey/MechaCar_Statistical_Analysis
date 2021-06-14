@@ -37,14 +37,14 @@ Total Summary
 ![1 3](https://user-images.githubusercontent.com/79670933/121826123-2f861d80-cc84-11eb-8915-323d2f6e50fd.png)
 
  
- <img width="219" alt="1 5" src="https://user-images.githubusercontent.com/79670933/121826331-36f9f680-cc85-11eb-87c6-f3c3e76cc755.png">
+ <img width="300" alt="1 8" src="https://user-images.githubusercontent.com/79670933/121826331-36f9f680-cc85-11eb-87c6-f3c3e76cc755.png">
 
  
  Lot Summary
 
 ![1 4](https://user-images.githubusercontent.com/79670933/121826122-2eed8700-cc84-11eb-9bd2-d2eaf3c12d03.png)
 
-<img width="289" alt="1 6" src="https://user-images.githubusercontent.com/79670933/121826340-3c574100-cc85-11eb-8320-95f8237534cd.png">
+<img width="300" alt="1 8" src="https://user-images.githubusercontent.com/79670933/121826340-3c574100-cc85-11eb-8320-95f8237534cd.png">
 
 
 The current manufacturing data meets this design specification for all manufacturing lots in total. When looking at the entire population of the production lot, the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement.
